@@ -1,0 +1,31 @@
+h1
+{
+    font-size: 70px;
+    text-align: center;
+    background-color: #ffc0cb55;
+}
+
+
+li
+{
+    font-size: 30px;
+    color: rebeccapurple;
+}
+
+
+img
+{
+    align-content: center;
+}
+
+
+h1, li
+{
+    font-family: 
+}
+
+
+p
+{
+    font-weight: bold;
+}
