@@ -1,15 +1,37 @@
+*
+{
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    
+}
+
 h1
 {
     font-size: 70px;
     text-align: center;
     background-color: #ffc0cb55;
+    padding: 70px;
+    margin: 30px auto;
 }
 
+
+div
+{
+    margin: auto 100px;
+    
+   border: 1px double;
+    padding: 10px;
+}
 
 li
 {
     font-size: 30px;
+    margin: 10px;
+    padding: 10px 10px;
     color: rebeccapurple;
+    border: 1px solid black;
+    
 }
 
 
@@ -17,13 +39,6 @@ img
 {
     align-content: center;
 }
-
-
-h1, li
-{
-    font-family: 
-}
-
 
 p
 {
